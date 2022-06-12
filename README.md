@@ -3,7 +3,7 @@ Program that checks status(offline/online) of a Helium Miner. If the miner is of
 
 ## How to Use
 
-You __ONLY__ need to download: Helium_Scrape.py, main.py, and send_email.py. Make sure you keep all these files in the same directory
+You __ONLY__ need to download: Helium_Scrape.py, main.py, and send_email.py. Make sure you keep all these files in the same directory. Once you have done all the steps below, only "main.py" needs to be ran.
 
 1: Open Helium_Scrape.py. You need to edit the __url__ variable to contain the address of your miner. Copy the address as show below and paste it in 
 specified area of the url.
