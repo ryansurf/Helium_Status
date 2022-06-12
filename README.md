@@ -1,5 +1,5 @@
 # Helium_Status
-Program that checks status(offline/online) of a Helium Miner. If the miner is offline the user is sent a warning via sms to let them know.
+Program that checks status(offline/online) of a Helium Miner. If the miner is offline the user is sent a warning via sms to let them know. I use this so I do not have to manically check to see if my miner is online and running as expected, the code does so for you.
 
 ## How to Use
 
