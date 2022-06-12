@@ -5,4 +5,4 @@ Program that checks status(offline/online) of a Helium Miner. If the miner is of
 
 1: Open Helium_Scrape.py. You need to edit the **url** variable to contain the address of your miner. See example below
 
-![alt text](Screen Shot 2022-06-12 at 1.11.50 AM.png)
+![alt text](address.png)
