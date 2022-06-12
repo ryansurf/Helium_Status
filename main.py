@@ -1,8 +1,10 @@
 from Helium_Scrape import check_status
-from email import send_email
+from send_email import send
 
-result = check_status()
+result = check_status()[0]
+name = check_status()[1]
 
 if result != 'online' and result != 'Online':
-    send_email()
+    send(name)
+send(name)
 
