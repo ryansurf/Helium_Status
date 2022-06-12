@@ -6,5 +6,5 @@ name = check_status()[1]
 
 if result != 'online' and result != 'Online':
     send(name)
-send(name)
+
 
